@@ -44,5 +44,7 @@ STEP 8 : Click on   RESET  button to reset the webpage.
     Where, R1=P+Q+X
 
     R2 = minimum we will neglect it
+<img width="1142" height="561" alt="image" src="https://github.com/user-attachments/assets/9d870cdc-c8cb-415d-99d7-f7bb29a91b14" />
 
   ## Result: 
+Thus the unknown inductance using Maxwell’s Bridge has been measured
